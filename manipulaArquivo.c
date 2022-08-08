@@ -58,7 +58,7 @@
 					else
 						putchar(tolower(aux));	
 				} while(aux!=EOF);
-				printf("\nA frase tem %d caracteres '%c'\n",cont,c);
+				printf("\nA frase tem %d caractere(s) '%c'\n",cont,c);
 				
 				printf("\n---------------------------------------------------\n");
 				break;
